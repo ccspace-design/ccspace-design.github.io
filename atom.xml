@@ -6,7 +6,7 @@
   <link href="https://ccspace.cc/atom.xml" rel="self"/>
   
   <link href="https://ccspace.cc/"/>
-  <updated>2022-03-12T06:15:28.585Z</updated>
+  <updated>2022-03-19T08:43:39.270Z</updated>
   <id>https://ccspace.cc/</id>
   
   <author>
@@ -17,22 +17,28 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://ccspace.cc/2022/03/12/hello-world/"/>
-    <id>https://ccspace.cc/2022/03/12/hello-world/</id>
-    <published>2022-03-12T06:15:28.585Z</published>
-    <updated>2022-03-12T06:15:28.585Z</updated>
+    <title>视觉设计和交互设计个人理解</title>
+    <link href="https://ccspace.cc/2022/03/16/%E8%A7%86%E8%A7%89%E8%AE%BE%E8%AE%A1%E5%92%8C%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1%E4%B8%AA%E4%BA%BA%E7%90%86%E8%A7%A3/"/>
+    <id>https://ccspace.cc/2022/03/16/%E8%A7%86%E8%A7%89%E8%AE%BE%E8%AE%A1%E5%92%8C%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1%E4%B8%AA%E4%BA%BA%E7%90%86%E8%A7%A3/</id>
+    <published>2022-03-15T16:00:00.000Z</published>
+    <updated>2022-03-19T08:43:39.270Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="视觉设计和交互设计个人理解"><a href="#视觉设计和交互设计个人理解" class="headerlink" title="视觉设计和交互设计个人理解"></a>视觉设计和交互设计个人理解</h2><p>首先视觉设计和交互设计是属于同种介质下不同的分支，比如说酱油和盐，都属于炒菜的调味品。酱油更重要的作用除了提鲜之外，还能给菜品上色，那么盐是我们菜的必备调味品，虽然不能一下看到，但是一试便知口味。</p><p>就好像视觉就是我们外在能通过眼睛看到的，外在的表现，能给一个产品起到锦上添花的作用。而交互是属于重中之重，内在的核心，是一个产品的根源性质所在。 </p><p>酱油可以没有，但盐必须要有。 </p><p>当然了彼此可以共存，也可以互相独立。 </p><p>对于C端来说，好的视觉效果可以与用户建立信任感，提高用户的留存率，甚至是转化率。因为C端面对的终端用户是消费者，是个人，想要与他们建立情感连接需要有在好用基础上更多的好看。 </p><p>对于B端来说，面对的用户更多的是企业级员工，B端产品有CRM、ERP管理平台，或者是企业内部使用的OA系统，围绕的是企业核心业务展开的，那自然是以业务功能、解决问题为主的，保证业务流程的完整使用。另外也有可能是售卖给中小企业的业务系统产品，比如说SaaS产品，那么这种的就需要围绕合作方的需求来做，必要时候提供定制化的服务流程。</p><p>但总体不变的是，B端轻视觉重交互，优先业务流程打通，才会考虑在视觉上做优化，比如SAAS软件这种的，是有可能会在交互基础上做优化。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;h2 id=&quot;视觉设计和交互设计个人理解&quot;&gt;&lt;a href=&quot;#视觉设计和交互设计个人理解&quot; class=&quot;headerlink&quot; title=&quot;视觉设计和交互设计个人理解&quot;&gt;&lt;/a&gt;视觉设计和交互设计个人理解&lt;/h2&gt;&lt;p&gt;首先视觉设计和交互设计是属于同种介质下不同的分支，比</summary>
       
     
     
     
+    <category term="个人随笔" scheme="https://ccspace.cc/categories/%E4%B8%AA%E4%BA%BA%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="视觉" scheme="https://ccspace.cc/tags/%E8%A7%86%E8%A7%89/"/>
+    
+    <category term="交互" scheme="https://ccspace.cc/tags/%E4%BA%A4%E4%BA%92/"/>
     
   </entry>
   
