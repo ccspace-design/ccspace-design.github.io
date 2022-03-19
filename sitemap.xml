@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ccspace.cc/about/index.html</loc>
+    
+    <lastmod>2022-03-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ccspace.cc/2022/03/16/%E8%A7%86%E8%A7%89%E8%AE%BE%E8%AE%A1%E5%92%8C%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1%E4%B8%AA%E4%BA%BA%E7%90%86%E8%A7%A3/</loc>
     
     <lastmod>2022-03-19</lastmod>
@@ -30,15 +39,6 @@
   
   <url>
     <loc>https://ccspace.cc/link/index.html</loc>
-    
-    <lastmod>2022-03-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ccspace.cc/about/index.html</loc>
     
     <lastmod>2022-03-19</lastmod>
     
